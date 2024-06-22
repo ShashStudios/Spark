@@ -12,8 +12,7 @@ Spark is an npm package that provides a standardized webpage with different inpu
 ## Technologies Used
 - [Next.js](https://nextjs.org) - React framework for production.
 - [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework.
-- Shadow CSS - CSS encapsulation technique.
-- [Aeternity UI](https://github.com/aeternity/aepp-components) - UI components library.
+- [Aceternity UI](https://ui.aceternity.com/) - UI components library.
 - [MongoDB](https://www.mongodb.com) - NoSQL database.
 
 ## Installation
