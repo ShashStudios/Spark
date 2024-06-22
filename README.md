@@ -1,57 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spark</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        h1 {
-            color: #333;
-            font-size: 2em;
-            margin-bottom: 10px;
-        }
-
-        h2 {
-            color: #333;
-            font-size: 1.5em;
-            margin-bottom: 10px;
-        }
-
-        p {
-            margin-bottom: 20px;
-        }
-
-        code {
-            background-color: #f4f4f4;
-            padding: 5px;
-            border-radius: 3px;
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-        }
-
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-        }
-    </style>
 </head>
-
-<body>
-    <h1>⚡ Spark</h1>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
+    <h1 style="color: #333; font-size: 2em; margin-bottom: 10px;">⚡ Spark</h1>
     <p>Spark is a powerful npm package that provides a standardized webpage with three pages featuring different input types such as text-to-text, voice-to-text, and text-to-speech. It allows developers and businesses to quickly set up applications without spending hours on styling and coding the front end, making it ideal for those focusing on their own trained models and custom needs.</p>
 
-    <h2>✨ Features</h2>
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">✨ Features</h2>
     <ul>
         <li>⚡ <strong>Fast Setup</strong>: Quickly prop up a basic web application with minimal configuration.</li>
         <li>🗣️ <strong>Multiple Input Types</strong>: Supports text-to-text, voice-to-text, and text-to-speech inputs.</li>
@@ -60,7 +19,7 @@
         <li>🔗 <strong>Backend Integration</strong>: Simple methods for connecting to backend services or APIs.</li>
     </ul>
 
-    <h2>🛠️ Technologies Used</h2>
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">🛠️ Technologies Used</h2>
     <ul>
         <li><a href="https://nextjs.org">Next.js</a> - React framework for production.</li>
         <li><a href="https://tailwindcss.com">Tailwind CSS</a> - Utility-first CSS framework.</li>
@@ -69,11 +28,11 @@
         <li><a href="https://www.mongodb.com">MongoDB</a> - NoSQL database.</li>
     </ul>
 
-    <h2>📦 Installation</h2>
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">📦 Installation</h2>
     <p>To install Spark, use npm:</p>
     <pre><code>npm install spark</code></pre>
 
-    <h2>🚀 Usage</h2>
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">🚀 Usage</h2>
     <p>Here is an example of how to use Spark in your Next.js project:</p>
     <pre><code>import { createApp } from 'spark';
 
@@ -88,10 +47,10 @@ const appConfig = {
 
 createApp(appConfig);</code></pre>
 
-    <h3>🌐 Customization</h3>
+    <h3 style="color: #333; font-size: 1.2em; margin-bottom: 10px;">🌐 Customization</h3>
     <p>You can customize the appearance and layout by modifying the styles with Tailwind CSS.</p>
 
-    <h3>📄 Configuration</h3>
+    <h3 style="color: #333; font-size: 1.2em; margin-bottom: 10px;">📄 Configuration</h3>
     <p>The <code>appConfig</code> object can be configured with the following options:</p>
     <ul>
         <li><strong>pages</strong>: An array of page objects, each with a <code>type</code> and <code>content</code>.
@@ -104,7 +63,9 @@ createApp(appConfig);</code></pre>
         <li><strong>backendUrl</strong>: The URL of your backend service to connect the front end with.</li>
     </ul>
 
-    <h2>🌟 Example Project</h2>
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">🌟 Example Project</h2>
     <p>Check out our <a href="https://github.com/yourusername/spark-example">example project</a> to see Spark in action and get started quickly.</p>
 
-    <h2>🤝 Contributing</h
+    <h2 style="color: #333; font-size: 1.5em; margin-bottom: 10px;">🤝 Contributing</h2>
+</body>
+</html>
