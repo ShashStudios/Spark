@@ -14,9 +14,13 @@ Spark is an npm package that provides a standardized webpage with different inpu
 - [Tailwind CSS](https://tailwindcss.com) - Utility-first CSS framework.
 - [Aceternity UI](https://ui.aceternity.com/) - UI components library.
 - [MongoDB](https://www.mongodb.com) - NoSQL database.
+- [DaisyUI](https://daisyui.com/) - UI components library.
+- [Shadcn](https://ui.shadcn.com/) - UI components library.
 
 ## Installation
 To install Spark, use npm:
+`cd template`
+`npm install`
 ## Usage
 Here is an example of how to use Spark in your Next.js project:
 
