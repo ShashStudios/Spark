@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 
 interface NavbarProps {
     projectName: string;
@@ -18,8 +19,8 @@ const Navbar = ({projectName} : NavbarProps) => {
         </div>
         <ul tabIndex={0} className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-black rounded-box w-52">
           <li><a>Homepage</a></li>
-          <li><a>Portfolio</a></li>
-          <li><a>About</a></li>
+          <li><a>Sign Up</a></li>
+          <li><a>Sign In</a></li>
         </ul>
       </div>
     </div>
