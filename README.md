@@ -15,6 +15,7 @@ Spark is an npm package that provides a standardized webpage with different inpu
 - [Aceternity UI](https://ui.aceternity.com/) - UI components library.
 - [MongoDB](https://www.mongodb.com) - NoSQL database.
 - [DaisyUI](https://daisyui.com/) - UI components library.
+- [Shadcn](https://ui.shadcn.com/) - UI components library.
 
 ## Installation
 To install Spark, use npm:
