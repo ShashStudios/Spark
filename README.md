@@ -18,6 +18,8 @@ Spark is an npm package that provides a standardized webpage with different inpu
 
 ## Installation
 To install Spark, use npm:
+`cd template`
+`npm install`
 ## Usage
 Here is an example of how to use Spark in your Next.js project:
 
